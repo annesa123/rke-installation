@@ -1,5 +1,5 @@
 ### **install RKE with ansible**
-=============================
+
 config pre install
 ```
 sudo hostnamectl set-hostname rke2-server
